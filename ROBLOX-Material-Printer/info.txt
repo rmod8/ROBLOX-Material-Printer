@@ -1,0 +1,8 @@
+=== ROBLOX Material Printer ===
+===    A program by rmod8   ===
+
+GitHub Link: https://github.com/retr0mod8/ROBLOX-Material-Printer
+
+
+Q: What is this folder?
+A: A simple folder to store the selected export folder path.
